@@ -1,0 +1,22 @@
+{
+  "name": "projet_api",
+  "version": "1.0.0",
+  "description": "#API permettant d'envoyer un fichier XML vers une base de données",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shannaras/API_MSPR3_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shannaras/API_MSPR3_test/issues"
+  },
+  "homepage": "https://github.com/Shannaras/API_MSPR3_test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
