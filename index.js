@@ -25,7 +25,7 @@ app.get("/recuperationXML/:id",(req,res) => {
 
 
 //Envoie le contenu du fichier XML au format JSON
-// params: body
+// params: body (un fichier JSON)
 app.post("/envoieXML", (req,res) => {
   var idCurrent = (fichiersXML[fichiersXML.length-1].id) +1
   var jsonToAdd = {"id": idCurrent,"body":req.body.body}
