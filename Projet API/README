@@ -1,0 +1,3 @@
+#API permettant d'envoyer un fichier XML vers une base de données
+#Et récupérer le fichier sur un site front end
+#Ceci est un POC
